@@ -1,0 +1,949 @@
+2021-04-21 17:49:43 INFO  Server:53 - Starting server on port 8080
+2021-04-21 17:49:55 INFO  Server:53 - Starting server on port 8080
+2021-04-21 17:49:56 INFO  Server:53 - Starting server on port 8080
+2021-04-21 17:49:56 INFO  Server:53 - Starting server on port 8080
+2021-04-21 17:49:56 INFO  Server:53 - Starting server on port 8080
+2021-04-21 17:49:56 INFO  Server:53 - Starting server on port 8080
+2021-04-21 17:49:57 INFO  Server:53 - Starting server on port 8080
+2021-04-21 17:49:57 INFO  Server:53 - Starting server on port 8080
+2021-04-21 17:49:57 INFO  Server:53 - Starting server on port 8080
+2021-04-21 17:49:57 INFO  Server:53 - Starting server on port 8080
+2021-04-21 17:49:57 INFO  Server:53 - Starting server on port 8080
+2021-04-21 17:49:58 INFO  Server:53 - Starting server on port 8080
+2021-04-21 17:49:58 INFO  Server:53 - Starting server on port 8080
+2021-04-21 17:50:46 INFO  Server:53 - Starting server on port 8080
+2021-04-21 17:50:48 INFO  Server:53 - Starting server on port 8080
+2021-04-22 13:55:19 INFO  Server:53 - Starting server on port 8080
+2021-04-24 21:32:32 INFO  Server:53 - Starting server on port 8080
+2021-04-24 21:32:39 INFO  Server:86 - New client
+
+2021-04-24 21:32:45 ERROR SocketHandlerThread:41 - Closing connection
+2021-04-24 21:36:03 INFO  Server:53 - Starting server on port 8080
+2021-04-24 21:36:23 INFO  Server:86 - New client
+
+2021-04-24 21:38:44 ERROR SocketHandlerThread:41 - Closing connection
+2021-04-24 21:59:36 INFO  Server:53 - Starting server on port 8080
+2021-04-24 21:59:46 INFO  Server:53 - Starting server on port 8080
+2021-04-24 22:00:01 INFO  Server:86 - New client
+
+2021-04-24 22:00:49 ERROR SocketHandlerThread:41 - Closing connection
+2021-04-24 22:01:06 INFO  Server:53 - Starting server on port 8080
+2021-04-24 22:01:15 INFO  Server:86 - New client
+
+2021-04-24 22:02:48 ERROR SocketHandlerThread:41 - Closing connection
+2021-04-24 22:04:11 INFO  Server:53 - Starting server on port 8080
+2021-04-24 22:04:22 INFO  Server:86 - New client
+
+2021-04-24 22:07:58 ERROR SocketHandlerThread:41 - Closing connection
+2021-04-24 22:08:04 INFO  Server:53 - Starting server on port 8080
+2021-04-24 22:08:12 INFO  Server:86 - New client
+
+2021-04-24 22:12:45 ERROR SocketHandlerThread:41 - Closing connection
+2021-04-24 22:12:45 ERROR SocketHandlerThread:41 - Closing connection
+2021-04-24 22:12:45 INFO  Server:86 - New client
+
+2021-04-24 22:12:54 INFO  Server:53 - Starting server on port 8080
+2021-04-24 22:13:01 INFO  Server:86 - New client
+
+2021-04-24 22:14:18 ERROR SocketHandlerThread:41 - Closing connection
+2021-04-24 22:14:50 INFO  Server:53 - Starting server on port 8080
+2021-04-24 22:14:56 INFO  Server:86 - New client
+
+2021-04-24 22:17:55 ERROR SocketHandlerThread:43 - Closing connection
+2021-04-24 22:18:03 INFO  Server:53 - Starting server on port 8080
+2021-04-24 22:18:10 INFO  Server:86 - New client
+
+2021-04-24 22:19:37 ERROR SocketHandlerThread:43 - Closing connection
+2021-04-24 22:19:45 INFO  Server:53 - Starting server on port 8080
+2021-04-24 22:19:52 INFO  Server:86 - New client
+
+2021-04-24 22:20:49 ERROR SocketHandlerThread:43 - Closing connection
+2021-04-24 22:20:53 INFO  Server:53 - Starting server on port 8080
+2021-04-24 22:21:02 INFO  Server:86 - New client
+
+2021-04-24 22:21:24 ERROR SocketHandlerThread:43 - Closing connection
+2021-04-24 22:23:27 INFO  Server:53 - Starting server on port 8080
+2021-04-24 22:23:34 INFO  Server:86 - New client
+
+2021-04-24 22:24:08 ERROR SocketHandlerThread:43 - Closing connection
+2021-04-24 22:24:15 INFO  Server:53 - Starting server on port 8080
+2021-04-24 22:24:24 INFO  Server:86 - New client
+
+2021-04-24 22:24:56 ERROR SocketHandlerThread:43 - Closing connection
+2021-04-24 22:27:17 INFO  Server:53 - Starting server on port 8080
+2021-04-24 22:27:25 INFO  Server:86 - New client
+
+2021-04-24 22:28:43 ERROR SocketHandlerThread:44 - Closing connection
+2021-04-24 22:29:13 INFO  Server:53 - Starting server on port 8080
+2021-04-24 22:29:15 INFO  Server:86 - New client
+
+2021-04-24 22:29:50 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-24 22:35:05 INFO  Server:53 - Starting server on port 8080
+2021-04-24 22:35:15 INFO  Server:86 - New client
+
+2021-04-24 22:35:41 INFO  ServerController:26 - Request: add
+2021-04-24 22:40:14 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 01:47:16 INFO  Server:53 - Starting server on port 8080
+2021-04-25 01:47:28 INFO  Server:86 - New client
+
+2021-04-25 01:47:48 INFO  ServerController:26 - Request: add
+2021-04-25 01:48:10 INFO  Server:53 - Starting server on port 8080
+2021-04-25 01:48:18 INFO  Server:86 - New client
+
+2021-04-25 01:49:10 INFO  ServerController:26 - Request: add
+2021-04-25 15:27:12 INFO  Server:53 - Starting server on port 8080
+2021-04-25 15:27:25 INFO  Server:86 - New client
+
+2021-04-25 15:27:53 INFO  ServerController:26 - Request: add
+2021-04-25 16:04:18 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 16:04:24 INFO  Server:53 - Starting server on port 8080
+2021-04-25 16:04:33 INFO  Server:86 - New client
+
+2021-04-25 16:05:02 INFO  ServerController:26 - Request: add
+2021-04-25 16:06:13 INFO  ServerController:26 - Request: add
+2021-04-25 16:28:27 INFO  Server:53 - Starting server on port 8080
+2021-04-25 16:28:32 INFO  Server:86 - New client
+
+2021-04-25 16:28:44 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 16:33:36 INFO  Server:86 - New client
+
+2021-04-25 16:33:55 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 16:43:45 INFO  Server:86 - New client
+
+2021-04-25 16:43:58 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 16:44:52 INFO  Server:86 - New client
+
+2021-04-25 16:44:57 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 16:45:45 INFO  Server:86 - New client
+
+2021-04-25 16:46:10 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 16:46:46 INFO  Server:86 - New client
+
+2021-04-25 16:47:13 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 16:48:20 INFO  Server:86 - New client
+
+2021-04-25 16:48:38 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 16:49:50 INFO  Server:86 - New client
+
+2021-04-25 16:49:54 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 16:50:32 INFO  Server:86 - New client
+
+2021-04-25 16:50:52 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 16:51:25 INFO  Server:86 - New client
+
+2021-04-25 16:51:36 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 16:59:10 INFO  Server:86 - New client
+
+2021-04-25 16:59:29 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 17:16:51 INFO  Server:53 - Starting server on port 8080
+2021-04-25 17:16:58 INFO  Server:86 - New client
+
+2021-04-25 17:17:10 INFO  ServerController:26 - Request: add
+2021-04-25 17:17:12 INFO  ServerController:26 - Request: find_page
+2021-04-25 17:17:27 INFO  ServerController:26 - Request: add
+2021-04-25 17:17:38 INFO  ServerController:26 - Request: add
+2021-04-25 17:17:40 INFO  ServerController:26 - Request: find_page
+2021-04-25 17:18:15 INFO  ServerController:26 - Request: find_page
+2021-04-25 17:18:19 INFO  ServerController:26 - Request: find_page
+2021-04-25 17:18:43 INFO  ServerController:26 - Request: find_page
+2021-04-25 17:47:50 INFO  Server:53 - Starting server on port 8080
+2021-04-25 17:47:57 INFO  Server:86 - New client
+
+2021-04-25 17:48:01 INFO  ServerController:26 - Request: find_page
+2021-04-25 17:48:16 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 23:30:58 INFO  Server:53 - Starting server on port 8080
+2021-04-25 23:31:07 INFO  Server:86 - New client
+
+2021-04-25 23:31:23 INFO  ServerController:26 - Request: add
+2021-04-25 23:31:24 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:31:38 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-25 23:36:17 INFO  Server:53 - Starting server on port 8080
+2021-04-25 23:36:22 INFO  Server:86 - New client
+
+2021-04-25 23:36:36 INFO  ServerController:26 - Request: add
+2021-04-25 23:36:46 INFO  ServerController:26 - Request: add
+2021-04-25 23:36:48 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:36:55 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-25 23:37:28 INFO  Server:53 - Starting server on port 8080
+2021-04-25 23:37:33 INFO  Server:86 - New client
+
+2021-04-25 23:37:42 INFO  ServerController:26 - Request: add
+2021-04-25 23:37:52 INFO  ServerController:26 - Request: add
+2021-04-25 23:37:53 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:38:02 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-25 23:38:05 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:38:08 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-25 23:40:24 INFO  Server:53 - Starting server on port 8080
+2021-04-25 23:40:31 INFO  Server:86 - New client
+
+2021-04-25 23:40:43 INFO  ServerController:26 - Request: add
+2021-04-25 23:40:44 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:40:53 INFO  ServerController:26 - Request: add
+2021-04-25 23:40:54 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:41:04 INFO  ServerController:26 - Request: add
+2021-04-25 23:41:13 INFO  ServerController:26 - Request: add
+2021-04-25 23:41:14 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:42:05 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:42:11 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-25 23:43:02 INFO  Server:53 - Starting server on port 8080
+2021-04-25 23:43:05 INFO  Server:86 - New client
+
+2021-04-25 23:43:14 INFO  ServerController:26 - Request: add
+2021-04-25 23:43:26 INFO  ServerController:26 - Request: add
+2021-04-25 23:43:34 INFO  ServerController:26 - Request: add
+2021-04-25 23:43:36 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:43:45 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-25 23:44:31 INFO  Server:53 - Starting server on port 8080
+2021-04-25 23:44:35 INFO  Server:86 - New client
+
+2021-04-25 23:44:44 INFO  ServerController:26 - Request: add
+2021-04-25 23:44:53 INFO  ServerController:26 - Request: add
+2021-04-25 23:44:54 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:45:00 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-25 23:50:57 INFO  Server:53 - Starting server on port 8080
+2021-04-25 23:51:01 INFO  Server:86 - New client
+
+2021-04-25 23:51:13 INFO  ServerController:26 - Request: add
+2021-04-25 23:51:23 INFO  ServerController:26 - Request: add
+2021-04-25 23:51:34 INFO  ServerController:26 - Request: add
+2021-04-25 23:51:36 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:51:42 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-25 23:53:26 INFO  Server:53 - Starting server on port 8080
+2021-04-25 23:53:30 INFO  Server:86 - New client
+
+2021-04-25 23:53:40 INFO  ServerController:26 - Request: add
+2021-04-25 23:53:42 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:53:46 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-25 23:54:37 INFO  Server:53 - Starting server on port 8080
+2021-04-25 23:54:43 INFO  Server:86 - New client
+
+2021-04-25 23:54:53 INFO  ServerController:26 - Request: add
+2021-04-25 23:54:55 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:54:58 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-25 23:57:39 INFO  Server:53 - Starting server on port 8080
+2021-04-25 23:57:43 INFO  Server:86 - New client
+
+2021-04-25 23:58:05 INFO  ServerController:26 - Request: add
+2021-04-25 23:58:09 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:58:12 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-25 23:58:14 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:58:34 INFO  ServerController:26 - Request: add
+2021-04-25 23:58:43 INFO  ServerController:26 - Request: add
+2021-04-25 23:58:45 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:58:51 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-25 23:58:55 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:59:05 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-25 23:59:07 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:59:17 INFO  ServerController:26 - Request: add
+2021-04-25 23:59:24 INFO  ServerController:26 - Request: add
+2021-04-25 23:59:26 INFO  ServerController:26 - Request: find_page
+2021-04-25 23:59:32 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-25 23:59:35 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 00:00:11 INFO  Server:53 - Starting server on port 8080
+2021-04-26 00:00:17 INFO  Server:86 - New client
+
+2021-04-26 00:00:38 INFO  ServerController:26 - Request: add
+2021-04-26 00:00:59 INFO  ServerController:26 - Request: add
+2021-04-26 00:01:05 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:01:25 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-26 00:02:14 INFO  Server:53 - Starting server on port 8080
+2021-04-26 00:02:20 INFO  Server:86 - New client
+
+2021-04-26 00:02:29 INFO  ServerController:26 - Request: add
+2021-04-26 00:02:37 INFO  ServerController:26 - Request: add
+2021-04-26 00:02:41 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:02:47 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-26 00:02:49 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:02:51 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 00:20:04 INFO  Server:86 - New client
+
+2021-04-26 00:20:19 INFO  ServerController:26 - Request: add
+2021-04-26 00:20:27 INFO  ServerController:26 - Request: add
+2021-04-26 00:20:28 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:20:34 INFO  ServerController:26 - Request: search_by_full_name_or_address
+2021-04-26 00:20:44 INFO  ServerController:26 - Request: search_by_full_name_or_address
+2021-04-26 00:21:02 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 00:43:45 INFO  Server:86 - New client
+
+2021-04-26 00:43:54 INFO  ServerController:26 - Request: add
+2021-04-26 00:44:05 INFO  ServerController:26 - Request: add
+2021-04-26 00:44:16 INFO  ServerController:26 - Request: add
+2021-04-26 00:44:28 INFO  ServerController:26 - Request: add
+2021-04-26 00:44:29 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:37 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:37 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:37 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:37 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:38 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:38 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:38 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:38 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:38 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:38 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:38 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:38 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:40 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:40 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:40 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:40 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:41 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:41 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:42 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:42 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:43 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:43 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:43 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:43 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:46 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:46 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:46 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:46 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:47 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:47 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:47 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:47 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:49 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:49 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:50 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:50 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:51 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:51 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:53 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:53 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:53 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:53 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:54 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:54 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:55 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:55 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:57 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:57 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:58 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:58 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:59 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:59 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:44:59 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:44:59 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:00 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:00 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:00 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:00 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:01 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:01 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:01 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:01 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:02 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:02 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:02 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:02 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:03 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:03 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:06 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:06 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:07 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:07 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:08 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:08 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:09 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:09 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:09 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:09 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:11 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:11 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:11 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:11 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:12 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:12 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:13 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:13 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:14 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:14 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:14 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:45:14 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:45:38 INFO  ServerController:26 - Request: search_by_full_name_or_address
+2021-04-26 00:45:43 INFO  ServerController:26 - Request: search_by_full_name_or_address
+2021-04-26 00:45:50 INFO  ServerController:26 - Request: search_by_doctors_name_or_date
+2021-04-26 00:45:54 INFO  ServerController:26 - Request: search_by_doctors_name_or_date
+2021-04-26 00:49:48 INFO  ServerController:26 - Request: search_by_full_name_or_address
+2021-04-26 00:50:00 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 00:50:42 INFO  Server:86 - New client
+
+2021-04-26 00:51:11 INFO  ServerController:26 - Request: add
+2021-04-26 00:52:08 INFO  ServerController:26 - Request: add
+2021-04-26 00:52:20 INFO  ServerController:26 - Request: add
+2021-04-26 00:52:21 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:52:25 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:52:48 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 00:52:59 INFO  Server:86 - New client
+
+2021-04-26 00:53:08 INFO  ServerController:26 - Request: add
+2021-04-26 00:53:10 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:53:22 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 00:53:26 INFO  Server:86 - New client
+
+2021-04-26 00:53:30 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 00:53:32 INFO  Server:86 - New client
+
+2021-04-26 00:53:41 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:54:27 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 00:54:31 INFO  Server:86 - New client
+
+2021-04-26 00:54:35 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 00:54:48 INFO  Server:86 - New client
+
+2021-04-26 00:54:55 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:54:55 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:54:55 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:54:57 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:54:57 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:54:59 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:54:59 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:55:05 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:55:05 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:55:06 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:55:06 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:55:06 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:55:06 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:55:07 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:55:07 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:55:08 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:55:08 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:55:09 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:55:09 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:55:10 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:55:10 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:55:12 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:55:12 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:55:13 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:55:13 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:55:14 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:55:14 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:55:19 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:55:19 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:55:21 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 00:56:00 INFO  Server:86 - New client
+
+2021-04-26 00:56:02 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:02 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:02 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:03 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:03 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:05 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:05 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:07 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:07 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:08 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:08 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:08 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:13 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:13 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:13 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:16 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:16 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:17 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:17 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:17 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:17 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:17 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:17 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:18 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:18 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:18 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:18 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:18 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:18 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:18 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:18 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:18 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:18 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:18 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:18 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:19 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:19 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:19 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:19 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:21 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:21 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:21 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:23 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:56:23 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:56:25 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 00:56:53 INFO  Server:86 - New client
+
+2021-04-26 00:56:55 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:57:00 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:57:11 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:57:12 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 00:57:49 INFO  Server:86 - New client
+
+2021-04-26 00:57:51 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:57:51 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:57:51 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:57:54 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:57:54 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:57:54 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:57:54 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:57:55 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:57:55 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:57:56 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:57:56 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:57:56 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:57:56 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:57:57 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:57:57 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:57:58 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:57:58 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:57:58 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:57:58 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:57:59 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:57:59 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:58:37 INFO  Server:53 - Starting server on port 8080
+2021-04-26 00:58:41 INFO  Server:86 - New client
+
+2021-04-26 00:58:50 INFO  ServerController:26 - Request: add
+2021-04-26 00:58:58 INFO  ServerController:26 - Request: add
+2021-04-26 00:59:02 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:59:02 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:59:02 INFO  ServerController:26 - Request: find_page
+2021-04-26 00:59:07 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 00:59:07 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:02:33 INFO  Server:53 - Starting server on port 8080
+2021-04-26 01:02:42 INFO  Server:86 - New client
+
+2021-04-26 01:02:56 INFO  ServerController:26 - Request: add
+2021-04-26 01:02:58 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:02:58 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:08 INFO  ServerController:26 - Request: add
+2021-04-26 01:03:17 INFO  ServerController:26 - Request: add
+2021-04-26 01:03:18 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:18 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:27 INFO  ServerController:26 - Request: add
+2021-04-26 01:03:28 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:28 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:31 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:31 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:32 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:32 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:44 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:44 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:46 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:46 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:46 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:46 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:46 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:50 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:50 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:50 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:50 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:51 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:51 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:52 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:52 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:53 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:53 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:53 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:53 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:53 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:53 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:53 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:53 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:53 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:53 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:54 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:54 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:54 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:54 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:55 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:55 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:55 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:55 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:56 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:56 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:57 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:57 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:57 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:57 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:58 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:58 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:03:59 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:03:59 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:00 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:00 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:01 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:01 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:02 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:02 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:02 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:02 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:03 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:03 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:03 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:04 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:04 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:05 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:05 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:05 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:06 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:06 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:07 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:08 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:08 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:08 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:08 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:10 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:10 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:11 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:11 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:13 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:13 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:14 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:04:14 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:04:21 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 01:07:04 INFO  Server:86 - New client
+
+2021-04-26 01:07:07 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:07 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:12 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:12 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:12 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:12 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:12 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:12 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:12 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:12 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:12 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:12 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:13 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:13 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:13 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:13 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:14 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:14 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:15 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:15 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:15 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:15 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:15 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:16 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:16 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:16 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:18 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:18 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:18 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:18 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:18 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:18 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:19 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:19 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:21 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:21 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:21 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:21 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:21 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:21 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:22 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:22 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:23 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:23 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:23 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:23 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:23 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:24 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:24 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:25 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:25 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:28 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:28 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:30 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:30 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:30 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:31 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:31 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:32 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:32 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:33 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:33 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:34 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:34 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:47 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:47 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:48 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:48 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:07:54 INFO  ServerController:26 - Request: delete_by_full_name_or_address
+2021-04-26 01:07:57 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:07:57 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:08:00 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:08:00 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:08:01 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:08:01 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:08:02 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:08:02 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:08:05 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 01:12:19 INFO  Server:86 - New client
+
+2021-04-26 01:12:21 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:12:21 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:12:32 INFO  ServerController:26 - Request: search_by_full_name_or_address
+2021-04-26 01:12:59 INFO  ServerController:26 - Request: add
+2021-04-26 01:13:00 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:13:00 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:13:16 INFO  ServerController:26 - Request: add
+2021-04-26 01:13:17 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:13:17 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:13:24 INFO  ServerController:26 - Request: search_by_full_name_or_address
+2021-04-26 01:13:51 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 01:18:55 INFO  Server:86 - New client
+
+2021-04-26 01:18:58 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:18:58 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:19:04 INFO  ServerController:26 - Request: search_by_full_name_or_address
+2021-04-26 01:19:04 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:06 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:06 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:07 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:07 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:08 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:08 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:08 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:09 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:09 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:09 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:09 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:09 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:11 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:12 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:14 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:14 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:16 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:17 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:17 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:19:22 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 01:19:44 INFO  Server:86 - New client
+
+2021-04-26 01:19:46 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:19:46 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:20:05 INFO  ServerController:26 - Request: search_by_full_name_or_address
+2021-04-26 01:20:05 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:20:06 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:20:08 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:07 INFO  Server:86 - New client
+
+2021-04-26 01:22:08 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:22:08 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:22:20 INFO  ServerController:26 - Request: search_by_full_name_or_address
+2021-04-26 01:22:20 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:23 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:24 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:25 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:26 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:27 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:28 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:29 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:29 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:32 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:32 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:33 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:33 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:34 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:34 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:37 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:40 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:40 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:41 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:41 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:42 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:43 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:43 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:44 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:44 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:44 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:44 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:44 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:45 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:45 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:46 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:47 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:48 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:49 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:50 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:50 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:50 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:51 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:52 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:53 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:53 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:22:54 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:03 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:03 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:03 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:04 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:07 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:08 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:09 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:09 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:17 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:18 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:18 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:19 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:19 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:19 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:20 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:23 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:25 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:27 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:28 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:29 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:29 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:30 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:31 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:32 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:32 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:34 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:35 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:36 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:36 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:39 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:40 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:41 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:41 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:42 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:43 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:44 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:44 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:47 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:47 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:48 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:48 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:49 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:50 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:50 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:51 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:51 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:52 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:53 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:54 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:55 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:56 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:23:56 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:24:02 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 01:24:47 INFO  Server:86 - New client
+
+2021-04-26 01:24:50 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:24:50 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:24:58 INFO  ServerController:26 - Request: search_by_full_name_or_address
+2021-04-26 01:25:10 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:25:27 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:25:46 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:26:21 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:26:38 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 01:26:51 INFO  Server:86 - New client
+
+2021-04-26 01:26:53 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:26:53 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:27:03 INFO  ServerController:26 - Request: search_by_full_name_or_address
+2021-04-26 01:27:03 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:05 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:05 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:05 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:05 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:05 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:06 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:06 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:07 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:07 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:08 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:09 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:09 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:11 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:12 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:13 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:14 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:15 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:16 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:16 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:17 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:20 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:34 INFO  ServerController:26 - Request: search_by_birthday
+2021-04-26 01:27:35 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:39 INFO  ServerController:26 - Request: search_by_birthday
+2021-04-26 01:27:39 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:52 INFO  ServerController:26 - Request: search_by_birthday
+2021-04-26 01:27:52 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:53 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:53 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:58 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:59 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:27:59 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:28:00 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:28:10 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:28:11 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:28:11 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:28:11 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:28:59 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 01:29:03 INFO  Server:86 - New client
+
+2021-04-26 01:29:05 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:29:05 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:29:12 INFO  ServerController:26 - Request: search_by_full_name_or_address
+2021-04-26 01:29:12 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:20 INFO  ServerController:26 - Request: search_by_birthday
+2021-04-26 01:29:20 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:22 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:23 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:24 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:24 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:25 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:25 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:29 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:29 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:29 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:30 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:30 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:30 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:31 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:32 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:32 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:33 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:33 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:34 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:36 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:37 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:37 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:37 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:37 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:37 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:38 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:38 INFO  ServerController:26 - Request: search_by_birthday
+2021-04-26 01:29:38 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:39 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:40 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:40 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:41 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:42 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:29:49 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 01:33:15 INFO  Server:53 - Starting server on port 8080
+2021-04-26 01:33:23 INFO  Server:86 - New client
+
+2021-04-26 01:33:42 INFO  ServerController:26 - Request: add
+2021-04-26 01:33:50 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:33:52 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:34:24 INFO  ServerController:26 - Request: search_by_birthday
+2021-04-26 01:35:10 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:37:04 INFO  Server:53 - Starting server on port 8080
+2021-04-26 01:37:07 INFO  Server:86 - New client
+
+2021-04-26 01:37:16 INFO  ServerController:26 - Request: add
+2021-04-26 01:37:19 INFO  ServerController:26 - Request: get_amount_of_patients
+2021-04-26 01:37:19 INFO  ServerController:26 - Request: find_page
+2021-04-26 01:37:34 INFO  ServerController:26 - Request: search_by_birthday
+2021-04-26 01:37:48 INFO  ServerController:26 - Request: find_page_by_list
+2021-04-26 01:45:12 INFO  Server:53 - Starting server on port 8080
+2021-04-26 01:45:17 INFO  Server:86 - New client
+
+2021-04-26 01:45:22 ERROR SocketHandlerThread:45 - Closing connection
+2021-04-26 01:51:12 INFO  Server:53 - Starting server on port 8080
+2021-04-26 01:55:42 INFO  Server:54 - Starting server on port 8080
+2021-04-26 01:55:43 INFO  Server:33 - Turned off
+2021-04-26 01:56:20 INFO  Server:54 - Starting server on port 8080
+2021-04-26 01:56:26 INFO  Server:33 - Turned off
+2021-04-26 01:56:29 INFO  Server:33 - Turned off
