@@ -12,7 +12,7 @@ public class AddRequest extends ServerRequest {
         this.requestType = RequestType.ADD;
     }
 
-    public AddRequest(Patient patient){
+    public AddRequest(Patient patient) {
         this.patient = patient;
         this.requestType = RequestType.ADD;
     }
