@@ -9,11 +9,11 @@ import java.util.List;
 
 public class SearchService {
 
-    private SearchService(){
+    private SearchService() {
 
     }
 
-    public static List<Patient> search(List<Patient> listOfPatients, CustomDate date){
+    public static List<Patient> search(List<Patient> listOfPatients, CustomDate date) {
 
         List<Patient> result = new ArrayList<>();
         for (Patient currentPatient : listOfPatients) {
@@ -36,7 +36,7 @@ public class SearchService {
         return result;
     }
 
-    public static List<Patient> search(List<Patient> listOfPatients,String doctorsFullName, CustomDate dateOfReceipt){
+    public static List<Patient> search(List<Patient> listOfPatients, String doctorsFullName, CustomDate dateOfReceipt) {
         List<Patient> result = new ArrayList<>();
 
         for (Patient currentPatient : listOfPatients) {

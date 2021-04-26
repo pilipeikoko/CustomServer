@@ -3,7 +3,7 @@ package org.bsuir.request;
 import org.bsuir.util.CustomDate;
 import org.bsuir.util.RequestType;
 
-public class DeleteByDate extends ServerRequest{
+public class DeleteByDate extends ServerRequest {
     private CustomDate date;
 
     public DeleteByDate() {

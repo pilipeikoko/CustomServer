@@ -43,7 +43,7 @@ public class SocketHandlerThread implements Runnable {
         } catch (IOException | ClassNotFoundException exception) {
             exception.printStackTrace();
             LOGGER.error("Closing connection");
-        } catch (CustomServerException exception){
+        } catch (CustomServerException exception) {
             LOGGER.error(exception.getMessage());
         }
     }

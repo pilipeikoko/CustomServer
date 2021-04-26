@@ -5,10 +5,10 @@ import org.bsuir.model.Patient;
 
 import java.util.List;
 
-public class PageResponse extends ServerResponse{
+public class PageResponse extends ServerResponse {
     private final List<Patient> listOfPatients;
 
-    public PageResponse(List<Patient> list){
+    public PageResponse(List<Patient> list) {
         this.listOfPatients = list;
     }
 

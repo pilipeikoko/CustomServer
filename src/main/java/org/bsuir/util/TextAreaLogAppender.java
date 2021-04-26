@@ -8,7 +8,7 @@ import javax.swing.JTextArea;
 public class TextAreaLogAppender extends AppenderSkeleton {
     private JTextArea areaToLogTo;
 
-    public TextAreaLogAppender(){
+    public TextAreaLogAppender() {
         super();
     }
 

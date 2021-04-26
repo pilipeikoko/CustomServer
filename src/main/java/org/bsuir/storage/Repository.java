@@ -55,12 +55,12 @@ public class Repository {
         return SearchService.search(listOfPatients, date);
     }
 
-    public List<Patient> search(String fullName, String address){
-        return SearchService.search(listOfPatients,fullName,address);
+    public List<Patient> search(String fullName, String address) {
+        return SearchService.search(listOfPatients, fullName, address);
     }
 
-    public List<Patient> search(String doctorsFullName, CustomDate dateOfReceipt){
-        return SearchService.search(listOfPatients,doctorsFullName,dateOfReceipt);
+    public List<Patient> search(String doctorsFullName, CustomDate dateOfReceipt) {
+        return SearchService.search(listOfPatients, doctorsFullName, dateOfReceipt);
     }
 
     public void add(Patient patient) {
@@ -80,7 +80,6 @@ public class Repository {
 
 
         for (; currentRowNumber < lastRowNumber; ++currentRowNumber) {
-            //todo exception throws here
             listOfPatientsOnThePage.add(listOfPatients.get(currentRowNumber));
         }
 
@@ -100,7 +99,7 @@ public class Repository {
             lastRowNumber = totalNumberOfLines;
 
         for (; currentRowNumber < lastRowNumber; ++currentRowNumber) {
-            //todo exception throws here
+
             listOfPatientsOnThePage.add(listOfPatients.get(currentRowNumber));
         }
 

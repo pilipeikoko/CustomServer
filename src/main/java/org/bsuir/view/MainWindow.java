@@ -14,7 +14,7 @@ public class MainWindow {
     private final JFrame mainWindow;
     private final TextAreaLogAppender logAppender;
 
-    Server server;
+    private Server server;
 
     public MainWindow() {
         this.mainWindow = new JFrame("Custom server");
@@ -86,5 +86,15 @@ public class MainWindow {
         };
     }
 
+    public JFrame getMainWindow() {
+        return mainWindow;
+    }
 
+    public Server getServer() {
+        return server;
+    }
+
+    public TextAreaLogAppender getLogAppender() {
+        return logAppender;
+    }
 }

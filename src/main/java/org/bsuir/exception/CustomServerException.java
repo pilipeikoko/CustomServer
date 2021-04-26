@@ -1,6 +1,6 @@
 package org.bsuir.exception;
 
-public class CustomServerException extends Exception{
+public class CustomServerException extends Exception {
     public CustomServerException() {
     }
 

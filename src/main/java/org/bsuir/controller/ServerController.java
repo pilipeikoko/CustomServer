@@ -6,13 +6,16 @@ import org.bsuir.response.*;
 import org.bsuir.exception.CustomServerException;
 import org.bsuir.util.CustomDate;
 import org.bsuir.storage.Repository;
+import org.bsuir.util.Parameters;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.xml.sax.SAXException;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.TransformerException;
+import java.io.File;
 import java.io.IOException;
+import java.net.URL;
 import java.util.List;
 
 public class ServerController {
@@ -63,14 +66,22 @@ public class ServerController {
             }
 
             case SAVE_TO_FILE -> {
-                SaveToFile saveToFile = (SaveToFile) serverRequest;
-                save(saveToFile.getPath());
-                serverResponse = new FileResponse(true);
+                try {
+                    SaveToFile saveToFile = (SaveToFile) serverRequest;
+                    save(saveToFile.getPath());
+                    serverResponse = new FileResponse(true);
+                } catch (CustomServerException exception) {
+                    serverResponse = new FileResponse(false);
+                }
             }
             case READ_FROM_FILE -> {
-                ReadFromFile readFromFile = (ReadFromFile) serverRequest;
-                read(readFromFile.getPath());
-                serverResponse = new FileResponse(true);
+                try {
+                    ReadFromFile readFromFile = (ReadFromFile) serverRequest;
+                    read(readFromFile.getPath());
+                    serverResponse = new FileResponse(true);
+                } catch (CustomServerException exception) {
+                    serverResponse = new FileResponse(false);
+                }
             }
             case FIND_PAGE -> {
                 FindPage findPage = (FindPage) serverRequest;
@@ -87,6 +98,10 @@ public class ServerController {
                 List<Patient> list = getPage(findPageByList.getPage(), findPageByList.getAmountOfDataOnThePage(), findPageByList.getListOfPatients());
                 serverResponse = new PageResponse(list);
             }
+            case GET_ALL_PATIENTS -> {
+                List<Patient> list = List.copyOf(repository.getListOfPatients());
+                serverResponse = new SearchResponse(list);
+            }
             default -> throw new CustomServerException("Wrong attribute");
         }
 
@@ -99,7 +114,6 @@ public class ServerController {
 
     public ServerController(Repository repository) {
         this.repository = repository;
-        ;
     }
 
     public int delete(String fullName, String address) {
@@ -132,18 +146,18 @@ public class ServerController {
 
     public void save(String path) throws CustomServerException {
         try {
-            repository.saveToFile(path);
+            String fullPath = Parameters.DEFAULT_FILE_PATH + path;
+            repository.saveToFile(fullPath);
         } catch (IOException | TransformerException | SAXException | ParserConfigurationException exception) {
-            serverResponse = new FileResponse(false);
             throw new CustomServerException("Couldn't save to file");
         }
     }
 
     public void read(String path) throws CustomServerException {
         try {
-            repository.readFromFile(path);
+            String fullPath = Parameters.DEFAULT_FILE_PATH + path;
+            repository.readFromFile(fullPath);
         } catch (ParserConfigurationException | SAXException | IOException exception) {
-            serverResponse = new FileResponse(false);
             throw new CustomServerException("Couldn't read from file");
         }
     }

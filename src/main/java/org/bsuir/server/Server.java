@@ -73,12 +73,12 @@ public class Server {
 
         public void startServer() {
             try {
-                ServerSocket s = new ServerSocket(getPort());
-                List<Socket> socketPool = new ArrayList<>();
+                ServerSocket serverSocket = new ServerSocket(getPort());
+                List<Socket> listOfSockets = new ArrayList<>();
                 while (isRunning) {
                     try {
-                        Socket incoming = s.accept();
-                        socketPool.add(incoming);
+                        Socket incoming = serverSocket.accept();
+                        listOfSockets.add(incoming);
                         Runnable socketHandlerThread = new SocketHandlerThread(incoming, serverController);
 
                         Thread thread = new Thread(socketHandlerThread);
@@ -87,12 +87,12 @@ public class Server {
                         LOGGER.info("New client\n");
                     } catch (SocketException se) {
                         LOGGER.info("Socket closed");
-                        closeSockets(socketPool);
+                        closeSockets(listOfSockets);
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
                 }
-                closeSockets(socketPool);
+                closeSockets(listOfSockets);
             } catch (IOException e) {
                 e.printStackTrace();
             }
